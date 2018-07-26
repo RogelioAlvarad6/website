@@ -24,7 +24,7 @@ header {
 }
 main {
  padding-top: 15px;
-  display: grid;
+  display:grid;
  grid-template-areas:
   "aside article article"
   "aside footer footer";
@@ -43,7 +43,7 @@ article {
 }
 
 footer {
- grid-area: footer;
+ grid-area:footer;
  padding: 30px;
  background-color: #f1e3dd;
  color: white;
